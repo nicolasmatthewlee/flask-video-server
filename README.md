@@ -10,10 +10,11 @@ python server.py
 
 2. run localtunnel
 ```shell
-lt --port 5000
+lt --port 5000 --subdomain YOUR_SUBDOMAIN_HERE
 ```
 
-3. get localtunnel password by visiting [here](https://loca.lt/mytunnelpassword) from the machine running localtunnel
+3. get localtunnel password by visiting [this link](https://loca.lt/mytunnelpassword) from the machine running localtunnel
+
 _the server is now accessible anywhere on the internet from the localtunnel url_
 
 ## setting the lens position
